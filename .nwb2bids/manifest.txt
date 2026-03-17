@@ -1,0 +1,10 @@
+dandiset.yaml
+dataset_description.json
+participants.tsv
+participants.json
+derivatives/dataset_description.json
+sub-tg19/sub-tg19_sessions.tsv
+sub-tg19/sub-tg19_sessions.json
+sub-tg19/ses-21322/ecephys/sub-tg19_ses-21322_ecephys.nwb
+sub-tg19/ses-21324/ecephys/sub-tg19_ses-21324_ecephys.nwb
+sub-tg19/ses-21333/ecephys/sub-tg19_ses-21333_ecephys.nwb
